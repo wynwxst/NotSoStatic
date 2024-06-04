@@ -22,6 +22,8 @@ NotSoStatic comes with 3 main components
 
 You can find out how to use NSS in the `examples/` directory
 
+[A very simple demo here!](https://wynwxst.github.io/nss-demo/blog?post=%27hi%20,%20you%20can%20change%20?post=%20to%20anything%20:D%20and%20if%20you%20look%20at%20the%20repo,%20this%20page%20doesn%27t%20actually%20exist!%27)
+
 ### Disclaimer
 
 This is version 1.0, expect and report bugs and issues please :)
