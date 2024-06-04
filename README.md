@@ -1,5 +1,9 @@
 # NotSoStatic
 
+### What is it?
+A library to make js on github pages not so static (lol)
+It achieves this through usage of the git api! Checkout `nss.js` for more.
+
 ### Inspiration
 This project is heavily based on flask and pertains to features I enjoyed using from there
 
